@@ -1,0 +1,160 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Force NXT Men Polo Shirt",
+            "category":"men",
+            "brand":" Force NXT",
+            "price":3999,
+            "description":"Timeless blend of sophistication and comfort Premium quality polyester fabric for a luxuriously soft touch",
+            "image":"https://m.media-amazon.com/images/I/51tacUc2lGL._SY741_.jpg",
+            "offer":"yes",
+            "discount":20
+        },
+        {
+            "id":2,
+            "name":"Symbol Men's Solid Cotton T Shirt | Plain | Round Neck",
+            "category":"men",
+            "brand":"symbol",
+            "price":6499,
+            "description":"Machine wash warm, wash dark colors separately, do not bleach, tumble dry low, warm ironMade in Indi",
+            "image":"https://m.media-amazon.com/images/I/71eWZpgtFiL._SX569_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":3,
+            "name":"GoSriKi Women's Cotton Blend Straight Printed Kurta with Pant ",
+            "category":"women",
+            "brand":"GoSriKi",
+            "price":3499,
+            "description":"Kurta Set Fabric: Rayon Blend || Kurta Set Color :- Beige Style: Straight || Length: Calf Length || Sleeves: 3/4 Sleeves",
+            "image":"https://m.media-amazon.com/images/I/61nCJ7mqXFL._SX569_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":4,
+            "name":"BIGREAMS Unstitched Black Grey Herringbone Wool Blazer ",
+            "category":"men",
+            "brand":"BIGREAMS",
+            "price":3400,
+            "description":"Wool Blazer Yarn-Dyed Fabric For Three Piece Suit 58 Wide, Wrinkle Free, Best For Coat Pant, Nehru Jacket,Free Size",
+            "image":"https://m.media-amazon.com/images/I/61kjgZlUhEL._SX679_.jpg",
+            "offer":"yes",
+            "discount":15
+        },
+        {
+            "id":5,
+            "name":"GoSriKi Women's Rayon Blend Hand Block Printed Straight Kurta with Pant & Dupatta",
+            "category":"women",
+            "brand":"oSriKi",
+            "price":31995,
+            "description":"Kurta Set Fabric: Rayon Blend || Kurta Set Color :- Purple Style: Straight || Length: Calf Length ",
+            "image":" https://m.media-amazon.com/images/I/617AEmMkEmL._SY879_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":6,
+            "name":" Rayon Blend Solid Anarkali Kurta with Pant & Dupatta",
+            "category":"women",
+            "brand":"oSriKi",
+            "price":399,
+            "description":"Kurta Set Fabric: Rayon Blend || Kurta Set Color :- Wine",
+            "image":"https://m.media-amazon.com/images/I/61HG5aA3GYL._SY741_.jpg",
+            "offer":"yes",
+            "discount":15
+        },
+        {
+            "id":7,
+            "name":"Leriya Fashion Western Dress || Rayon Solid Button Front Shirt Dress for Women",
+            "category":"women",
+            "brand":"Leriya Fashion",
+            "price":1803,
+            "description":"Fabric:- Rayon || Package Contain:- 1 Stylish Dress For Women || Neck:- Collare Neck || Top Sleeve:- Roll Tab Sleeve",
+            "image":"https://m.media-amazon.com/images/I/415xsbjjE2L._SY741_.jpg",
+            "offer":"yes",
+            "discount":40
+        },
+        {
+            "id":8,
+            "name":"Cotton Rompers Sleepsuits Jumpsuit Night Suits",
+            "category":"kids",
+            "brand":"Cotton Rompers ",
+            "price":3400,
+            "description":"Our rompers provide quick dressing with zero hassle. The front itch buttons on the rompers will easily allow diaper change & dressing",
+            "image":"https://m.media-amazon.com/images/I/61k-7wDEdtL._SX679_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":9,
+            "name":"Versatile Girls Wear, Durable Kids Summer Wear, T-Shirt, Round Neck, Half Sleeve, Easy Care Clothes.",
+            "category":"kids",
+            "brand":"Versatile Girls Wear",
+            "price":380,
+            "description":"Quality That Stands Out:We take immense pride in delivering  products that surpass expectations, and our Girls' Printed T-Shirts are no exception",
+            "image":"https://m.media-amazon.com/images/I/51b1o2AuhAL._SX679_.jpg",
+            "offer":"yes",
+            "discount":10
+        },
+        {
+            "id":10,
+            "name":"Numero Uno Men's Classic Black Button-Up Shirt",
+            "category":"men",
+            "brand":"Numero",
+            "price":1399,
+            "description":"Fabric Type :: 100% Cotton || Wash Care :: Machine wash as per Tag Instructions",
+            "image":"https://m.media-amazon.com/images/I/61ES-xml6cL._SX569_.jpg",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":11,
+            "name":"Women Floral Print Anarkali Kurta with Pant and Dupatta",
+            "category":"women",
+            "brand":"Wedani",
+            "price":23995,
+            "description":"Product color might slightly vary due to photographic lighting sources or your monitor settings",
+            "image":"https://m.media-amazon.com/images/I/612JvadSUzL._SY741_.jpg",
+            "offer":"yes",
+            "discount":50
+        },
+        {
+            "id":12,
+            "name":"GRECIILOOKS Men's Regular Fit Shirt",
+            "category":"men",
+            "brand":"GRECIILOOKS",
+            "price":3060,
+            "description":"Package Includes : Pack of 1 Fancy Textured Shirts For Men",
+            "image":"https://m.media-amazon.com/images/I/611zHsFaFIL._SY741_.jpg",
+            "offer":"yes",
+            "discount":45        
+        },
+        {
+            "id":13,
+            "name":"MANSVI FASHION women's Banarasi silk Jacquard lehenga choli",
+            "category":"women",
+            "brand":"MANSVI FASHION ",
+            "price":23995,
+            "description":"Wash care - hand wash ric : banarasi silk jacquard; Occasion - festival Lehenga - free size (semi-stitched), choli (blouse)",
+            "image":"https://m.media-amazon.com/images/I/81eXk0+2a0L._SX679_.jpg",
+            "offer":"yes",
+            "discount":20
+        },
+        {
+            "id":14,
+            "name":"Parsh - Unstitched Coat Blazer Length Fabric (Unstitched) 2 Meter",
+            "category":"men",
+            "brand":"Parsh",
+            "price":3060,
+            "description":"Parsh - Exclusive Collection.Parsh Cotlook Blazer Length - 2 meters. Light Weight & Long Lasting Fabric.",
+            "image":"https://m.media-amazon.com/images/I/51WQ9V+iPXL._SY879_.jpg",
+            "offer":"yes",
+            "discount":10
+        }
+    ]
+}
+
+

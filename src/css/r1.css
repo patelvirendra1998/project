@@ -1,0 +1,31 @@
+
+
+#homeProduct
+{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+#proHeading
+{
+    text-align: center;
+    color: rgb(104, 104, 179);
+}
+
+#topmenu
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#shoppage
+{
+    display: flex;
+    justify-content: space-between;
+}
